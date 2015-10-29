@@ -15,5 +15,5 @@ class UsersController < ApplicationController
     @user[:location] = 'Tottori, Japan'
     @user[:about] = 'Nice to meet you.'
   end
-end
+  end
 end
