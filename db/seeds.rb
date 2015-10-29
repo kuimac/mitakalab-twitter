@@ -2,7 +2,7 @@
 @user.name = 'hogehoge'
 @user.username = 'hoge'
 @user.location = 'Kanagawa, Japan'
-@user.about = 'Hello, I am hofe. I am from database!'
+@user.about = 'Hello, I am hoge. I am from database!'
 @user.save
 
 @user = User.new
